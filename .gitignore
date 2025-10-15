@@ -1,5 +1,9 @@
-# proj specific
+# mac nonsense
+.DS_Store
+
+# projects
 data/
+*.code-workspace
 
 # generic below
 
